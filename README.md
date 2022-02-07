@@ -1,4 +1,6 @@
-# Weather
+<div align='center'>
+ <h1>Weather app</h1>
+  </div>
 
 ## 🚀 Sobre o Projeto
 
