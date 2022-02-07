@@ -57,3 +57,21 @@ $ yarn dev
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
 Feito com ❤️ por Jonathan Silva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jonathsilva)
+
+
+[nodejs]: https://nodejs.org/
+[express]: https://expressjs.com/
+[uuidv4]: https://www.npmjs.com/package/uuidv4
+[nodemon]: https://www.npmjs.com/package/nodemon
+[rs]: https://rocketseat.com.br
+
+[scss]: https://sass-lang.com/
+[license]: https://opensource.org/licenses/MIT
+[postgres]: https://www.postgresql.org/
+[multer]: https://www.npmjs.com/package/multer
+[reactjs]: https://reactjs.org/
+[babel]: https://babeljs.io/
+[webpack]: https://webpack.js.org/
+[license]: https://opensource.org/licenses/MIT
+[typescript]: https://www.typescriptlang.org/
+[styled]: https://styled-components.com/
