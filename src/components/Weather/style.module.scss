@@ -1,0 +1,30 @@
+.wrapperContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+
+  h1 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 3rem;
+  }
+
+  .temperature {
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+    flex-direction: row;
+
+    p {
+      margin-left: 1.2rem;
+      font-family: sans-serif;
+      margin-top: 1.5rem;
+      font-weight: 600;
+      color: white;
+      font-size: 2.5rem;
+    }
+  }
+}
